@@ -1,0 +1,48 @@
+* {
+  margin: 0 0 0 10;
+  padding: 0;
+  font-family: Roboto;
+}
+
+.top {
+  height: 535px;
+  width: 1440px;
+  padding: 0px;
+  margin: 0px;
+  background-color: #1F2937;
+}
+
+.gallery {
+  height: 500px;
+  width: 1440px;
+}
+
+.quote {
+  height: 430px;
+  width: 1440px;
+  background-color: #E5E7EB;
+}
+
+.banner {
+  height: 350px;
+  width: 1440px;
+  background-color: #3882F6;
+}
+
+.footer {
+  height: 100px;
+  width: 1440px;
+  background-color: #1F2937;
+}
+
+#header-logo {
+  font-size: 24px;
+  color: #F9FAF8;
+  font-weight: 600;
+}
+
+#header-row {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+}
